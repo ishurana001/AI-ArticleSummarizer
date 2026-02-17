@@ -9,7 +9,7 @@
 
 ---
 
-### 🌐 [Live Demo Link](https://ai-articlesummarizer-kuverdeep.netlify.app)
+### 🌐 [Live Demo Link](https://ai-summarizerarticle.netlify.app/)
 
 **AI-ArticleSummarizer** is a high-performance web application that leverages **OpenAI GPT-4** to transform dense articles into clear and concise summaries. Designed for efficiency, it allows users to skip the fluff and get straight to the facts.
 
@@ -57,11 +57,11 @@ To protect sensitive information, this project uses:
    ```bash
    npm install
    ```
-3. **Add your OpenAI API key**
-  ```bash
-   Create a .env file in the root and add
+3. **Add your OpenAI API key:**
+   ```bash
+   Create a .env file in the root and add:
    ```
-4. **Run locally**
+4. **Run locally:**
    ```bash
    npm run dev
    ```

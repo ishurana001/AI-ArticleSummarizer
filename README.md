@@ -9,7 +9,7 @@
 
 ---
 
-### 🌐 [Live Demo Link](https://ai-summarizerarticle.netlify.app/)
+### 🌐 [Live Demo Link](https://kuverdeep-aisummarizer.netlify.app/)
 
 **AI-ArticleSummarizer** is a high-performance web application that leverages **OpenAI GPT-4** to transform dense articles into clear and concise summaries. Designed for efficiency, it allows users to skip the fluff and get straight to the facts.
 
